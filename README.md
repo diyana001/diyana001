@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diyana001
+- 👋 Hi, I’m diyana
 - 👀 I’m interested in web development, data analyse, and creative coding
 - 🌱 I’m currently studying at SLIIT 
 - 💞 I’m looking to collaborate on beginner-friendly open-source projects or student tech initiatives.
