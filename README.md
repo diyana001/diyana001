@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @diyana001
+- 👀 I’m interested in web development, data analyse, and creative coding
+- 🌱 I’m currently studying at SLIIT 
+- 💞 I’m looking to collaborate on beginner-friendly open-source projects or student tech initiatives.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love coding late at night with coffee and lo-fi music!
